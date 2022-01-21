@@ -20,8 +20,8 @@
 }
 
 .custom .trigger {
-    width:118px;
-    height:119px;
+    width:148px;
+    height:127px;
     background: url(trigger.svg);
     opacity: 1;
 }
@@ -49,8 +49,8 @@
 }
 
 .custom .bumper {
-    width: 124px;
-    height: 53px;
+    width: 157px;
+    height: 37px;
     background: url(bumper.svg);
     opacity: 0;
 }
