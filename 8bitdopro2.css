@@ -14,14 +14,14 @@
 
 .custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
     width: 556px;
-    height: 119px;
+    height: 116px;
     position: absolute;
     left: 101px;
 }
 
 .custom .trigger {
-    width:148px;
-    height:127px;
+    width:147px;
+    height:126px;
     background: url(trigger.svg);
     opacity: 1;
 }
@@ -41,9 +41,9 @@
 }
 
 .custom .bumpers {
-    width: 542px;
+    width: 522px;
     height: 53px;
-    left: 108px;
+    left: 98px;
     position: absolute;
 	top: 111px;
 }
