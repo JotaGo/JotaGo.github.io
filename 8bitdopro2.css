@@ -13,7 +13,7 @@
 }
 
 .custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
-    width: 564px;
+    width: 565px;
     height: 116px;
     position: absolute;
     left: 97px;
@@ -42,10 +42,10 @@
 
 .custom .bumpers {
     width: 564px;
-    height: 70px;
+    height: 52px;
     left: 97px;
     position: absolute;
-	top: 147px;
+	top: 148px;
 }
 
 .custom .bumper {
