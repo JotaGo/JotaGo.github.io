@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="44.450203mm"
-   height="22.256729mm"
-   viewBox="0 0 44.450202 22.25673"
+   width="196.00076"
+   height="97.119919"
+   viewBox="0 0 51.858526 25.696309"
    version="1.1"
    id="svg2417"
    sodipodi:docname="stick.svg"
@@ -21,17 +21,18 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="2.4668128"
-     inkscape:cx="80.873587"
-     inkscape:cy="41.146211"
+     inkscape:cx="132.55971"
+     inkscape:cy="51.686127"
      inkscape:window-width="2560"
      inkscape:window-height="1395"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     units="px" />
   <defs
      id="defs2414" />
   <g
@@ -41,7 +42,7 @@
      transform="translate(-112.78833,-124.30208)">
     <g
        id="g3241"
-       transform="matrix(0.86631309,0,0,0.79169127,15.067246,25.90277)">
+       transform="matrix(1.0010713,0,0,0.91484536,-0.13361399,10.595947)">
       <ellipse
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.558918;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path22763-7-9-3"
@@ -59,7 +60,7 @@
     </g>
     <g
        id="g3241-2"
-       transform="matrix(0.86631309,0,0,0.79169127,37.460552,25.99332)">
+       transform="matrix(1.0010768,0,0,0.91484678,26.026911,10.784755)">
       <ellipse
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.558918;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path22763-7-9-3-9"

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="23.432365mm"
-   height="18.365395mm"
-   viewBox="0 0 23.432365 18.365395"
+   width="38.911713mm"
+   height="33.338993mm"
+   viewBox="0 0 38.911712 33.338994"
    version="1.1"
    id="svg2848"
    sodipodi:docname="trigger.svg"
@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.985852"
-     inkscape:cx="-53.881155"
-     inkscape:cy="-22.91208"
-     inkscape:window-width="1399"
-     inkscape:window-height="969"
+     inkscape:zoom="2.7467656"
+     inkscape:cx="55.519844"
+     inkscape:cy="32.583777"
+     inkscape:window-width="2560"
+     inkscape:window-height="1395"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2845" />
@@ -38,11 +38,11 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-108.90135,-194.87572)">
+     transform="translate(-60.800148,-183.00265)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#b4b0ad;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 111.2396,213.09443 h 20.0184 c 0,0 0.94342,-0.29505 0.94342,-1.63404 0,-1.33899 -2.72724,-16.551 -10.06071,-16.4519 -7.33347,0.0991 -11.39661,9.76145 -11.39661,9.76145 0,0 -4.15668,8.7413 0.4955,8.32449 z"
-       id="path23787"
+       style="fill:#ffffff;fill-opacity:1;stroke:#b4afac;stroke-width:0.459406px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.678431"
+       d="m 64.691017,216.08591 h 33.225321 c 0,0 1.56582,-0.53594 1.56582,-2.96819 0,-2.43225 -4.5265,-30.06451 -16.698145,-29.88449 -12.171651,0.18002 -18.915402,17.73145 -18.915402,17.73145 0,0 -6.899001,15.87836 0.822406,15.12123 z"
+       id="path23787-9"
        sodipodi:nodetypes="ccsscc" />
   </g>
 </svg>
